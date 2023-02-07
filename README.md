@@ -1,4 +1,4 @@
-# To test MAPBOX
+# To test google map api
 
 
 # URL
